@@ -4,6 +4,8 @@
 
 MSc in Music Technology | Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib |
 
+Generative Music | Neural Networks | Music Information Retrieval |
+
 ![headshot](./imgs/img_headshot.jpg)
 
 <!-- HEADER END -->
@@ -31,6 +33,8 @@ I am always in for a quick chat!
 ### Effects Processor Audio Plugin Software
 
 _Developed a multi-effects audio plugin in C++ using the JUCE framework, incorporating classic audio effects like phaser, chorus, overdrive, and filters, with a modular signal chain for customizable routing. The plugin features an interactive UI with real-time parameter control, allowing users to adjust depth, rate, and feedback for a personalized audio experience._
+
+![EP](./imgs/EP_UI.png)
 
 ### Algorithmic Mixing Assistant Software (Graduate Thesis)
 
