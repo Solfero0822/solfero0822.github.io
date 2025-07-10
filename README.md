@@ -2,7 +2,7 @@
 
 <!-- # Aditya Gokhe -->
 
-MSc in Music Technology | Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib|
+MSc in Music Technology | Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib |
 
 ![headshot](./imgs/img_headshot.jpg)
 
@@ -42,13 +42,7 @@ _Developed standalone software for music mixing in Python using PyTorch, integra
 
 ### Here, Now
 
-_August 2024 – November 2024_
-
-- Developed an interactive installation in Max/MSP to explore the relationship between audio and visuals.
-- Implemented a reaction-diffusion system with custom presets for visual complexity.
-- Experimented with spatial audio, using stereo panning to match visual object location.
-- Integrated HID game controllers to allow users to modify parameters in real-time.
-- Composed an ambient soundscape featuring drones and rain sounds to interact with the visuals.
+_Created an interactive installation in Max/MSP that merged audio and visuals, using a reaction-diffusion system to generate dynamic, customizable visuals. The experience featured spatial audio, real-time parameter manipulation via game controllers, and an ambient soundscape that complemented the evolving visuals._
 
 ---
 
@@ -57,21 +51,12 @@ _August 2024 – November 2024_
 ### Audio Engineer Intern
 
 **Manhattan Beach Recording Studio, New York, NY**  
-_June 2024 – August 2024_
-
-- Recorded lead and backing vocals using Neumann U87 and Avalon AD Vt-737sp.
-- Assisted in microphone setup including MS pair, XY pair, spaced pair, and Decca Tree.
-- Performed maintenance on studio equipment, ensuring optimal performance.
-- Worked with high-end equipment like Neumann U87, Sony C-37A, and AKG C414.
+_Recorded lead and backing vocals using high-end gear including the Neumann U87 and Avalon AD VT-737sp, ensuring professional sound quality. Supported microphone setup for various stereo techniques—MS, XY, spaced pair, and Decca Tree—and maintained studio equipment for peak performance._
 
 ### Audio Editor Intern
 
 **SaReGaMa India Ltd., Mumbai, India**  
-_November 2022 – May 2023_
-
-- Edited and processed educational audio content in Logic Pro X to enhance clarity and consistency.
-- Managed and organized audio assets to streamline production workflows.
-- Co-developed audio-based learning modules, refining narration and context flow.
+_Edited and processed educational audio content in Logic Pro X to improve clarity and consistency, while managing audio assets to optimize production workflows. Co-developed audio-based learning modules, enhancing narration quality and contextual flow._
 
 <!-- BODY END -->
 
