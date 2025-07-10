@@ -36,6 +36,9 @@ _Developed a multi-effects audio plugin in C++ using the JUCE framework, incorpo
 
 _Developed standalone software for music mixing in Python using PyTorch, integrated a neural network based audio source separation model (UMXL) by Open-Unmix, extracted key features such as LUFS, Dynamic Range and Panning with Librosa. Visualizing the audio file as spectrogram with the help of Matplotlib and designed the user interface with CustomTkinter. Currently exploring real-time processing in C++ and ONNX realtime_
 
+![AMA1](./imgs/AMA.png)
+![AMA2](./imgs/Spectrogram.png)
+
 ---
 
 ## Interactive Multimedia Projects
@@ -43,6 +46,8 @@ _Developed standalone software for music mixing in Python using PyTorch, integra
 ### Here, Now
 
 _Created an interactive installation in Max/MSP that merged audio and visuals, using a reaction-diffusion system to generate dynamic, customizable visuals. The experience featured spatial audio, real-time parameter manipulation via game controllers, and an ambient soundscape that complemented the evolving visuals._
+
+![RD2](./imgs/RD_2.png)
 
 ---
 
