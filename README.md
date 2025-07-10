@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-# Aditya Gokhe
+<!-- # Aditya Gokhe -->
 
 MSc in Music Technology | Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib|
 
