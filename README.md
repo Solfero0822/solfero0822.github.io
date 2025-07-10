@@ -4,7 +4,8 @@
 
 MSc in Music Technology | Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib|
 
-![headshot](./imgs/img_headshot.jpg)
+<!-- ![headshot](./imgs/img_headshot.jpg) -->
+<img src="./imgs/img_headshot.jpg" width="400" height="300" alt="Profile Picture">
 
 <!-- HEADER END -->
 
