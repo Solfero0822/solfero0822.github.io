@@ -2,7 +2,9 @@
 
 <!-- # Aditya Gokhe -->
 
-MSc in Music Technology | Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib |
+MSc in Music Technology |
+
+Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib |
 
 Generative Music | Neural Networks | Music Information Retrieval |
 
