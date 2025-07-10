@@ -23,7 +23,7 @@ I am always in for a quick chat!
 
 [📧 Email](adityagokhe08@gami.com) &nbsp;&nbsp;&nbsp;
 [👤 Linkedin](https://www.linkedin.com/in/adityagokhe08/) &nbsp;&nbsp;&nbsp;
-[👾 GitHub](https://github.com/Solfero0822/adityagokhe.github.io.git)
+[👾 GitHub](https://github.com/Solfero0822)
 
 ---
 
