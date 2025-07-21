@@ -6,6 +6,8 @@ MSc in Music Technology | Generative Music | Neural Networks | Music Information
 
 Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib |
 
+Music theory, Western Classical Music, Hindustani Classical Music, South Indian Rhythm | Piano, Guitar |
+
 ![headshot](./imgs/img_headshot.jpg)
 
 <!-- HEADER END -->
@@ -36,7 +38,7 @@ _Developed a multi-effects audio plugin in C++ using the JUCE framework, incorpo
 
 ### Algorithmic Mixing Assistant Software (Graduate Thesis)
 
-_Developed standalone software for music mixing in Python using PyTorch, integrated a neural network based audio source separation model (UMXL) by Open-Unmix, extracted key features such as LUFS, Dynamic Range and Panning with Librosa. Visualizing the audio file as spectrogram with the help of Matplotlib and designed the user interface with CustomTkinter. Currently exploring real-time processing in C++ and ONNX realtime_
+_Developed standalone software for music mixing in Python using PyTorch, integrated a neural network based audio source separation model (UMXL) by Open-Unmix, extracted key features such as LUFS, Dynamic Range and Panning with Librosa. Visualizing the audio file as spectrogram with the help of Matplotlib and designed the user interface with CustomTkinter._
 
 ![AMA1](./imgs/AMA.png)
 ![AMA2](./imgs/Spectrogram.png)
@@ -63,7 +65,7 @@ _Recorded lead and backing vocals using high-end gear including the Neumann U87 
 ### Audio Editor Intern
 
 **SaReGaMa India Ltd., Mumbai, India**  
-_Edited and processed educational audio content in Logic Pro X to improve clarity and consistency, while managing audio assets to optimize production workflows. Co-developed audio-based learning modules, enhancing narration quality and contextual flow._
+_Created educational music content using Logic Pro X, applying advanced audio production techniques to ensure clarity and consistency. Co-developed audio-based learning modules that enhanced contextual flow and simplified complex music theory concepts. Additionally, managed and organized audio assets across the internal server, optimizing workflows and enabling efficient access for the team.._
 
 <!-- BODY END -->
 
