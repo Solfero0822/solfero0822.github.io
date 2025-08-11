@@ -124,7 +124,7 @@ Since childhood, the Japanese art of paper folding — [Orgiami]() has been the 
 
 As a teenager, the adrenaline rushes from video games is unparallel — being compatitive shooters with each pixel on Rainbow Six Siege, Valorant and Spectre Divide to completing stealth missions on Tom Clancy's Ghost Recon: Future Soldier, Wildlands and Breakpoint along with the motorsport games like Assetto Corsa and CarXdrift — is a long list consisting various geners of games — requested me to be present and take quick decisions to flip the situation around.
 
-I am always open to talk about [Photography], Chess and Science.
+I am always open to talk about [Photography](./assets/PHOTOGRAPHY.md), Chess and Science.
 
 <!-- BODY END -->
 
