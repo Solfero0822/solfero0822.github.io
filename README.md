@@ -21,7 +21,11 @@ Namaste!🙏 My journey began with the appriciatation of music performance, drag
 The software side, things that interests me are music information retrieval, deep learning and prototyping systems.
 Contrary to that, acoutics/psycoacoutics, human interface devices and recording technologies still gets me to dive deeper.
 
-I am always in for a quick chat! &nbsp;&nbsp;&nbsp; [📧 Email](adityagokhe08@gami.com) &nbsp;&nbsp;&nbsp; [👤 Linkedin](https://www.linkedin.com/in/adityagokhe08/) &nbsp;&nbsp;&nbsp; [👾 GitHub](https://github.com/Solfero0822) &nbsp;&nbsp;&nbsp;
+I am always in for a quick chat!
+
+[📧 Email](adityagokhe08@gami.com) &nbsp;&nbsp;&nbsp;
+[👤 Linkedin](https://www.linkedin.com/in/adityagokhe08/) &nbsp;&nbsp;&nbsp;
+[👾 GitHub](https://github.com/Solfero0822) &nbsp;&nbsp;&nbsp;
 
 ---
 
