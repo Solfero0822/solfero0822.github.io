@@ -8,7 +8,7 @@ Python, C++, MaxMSP | PyTorch, TorchAudio, JUCE, Librosa, Matplotlib |
 
 Hindustani Classical Music, South Indian Rhythm | Music theory, Western Classical Music, Piano, Guitar |
 
-![headshot](./imgs/img_headshot.jpg)
+![headshot](./imgs/main/img_headshot.jpg)
 
 <!-- HEADER END -->
 
@@ -40,7 +40,7 @@ Key Contributions:
 Technologies / Tools:
 C++, JUCE, Digital Signal Processing (DSP), Xcode, Audio Plugin Development, UI/UX Design
 
-![EP](./imgs/EP_UI.png)
+![EP](./imgs/main/EP_UI.png)
 
 ### Algorithmic Mixing Assistant Software (Graduate Thesis)
 
@@ -57,8 +57,8 @@ Key Contributions:
 Technologies / Tools:
 Python, PyTorch, TorchAudio, Librosa, Matplotlib, CustomTkinter, Jupyter Notebook, GitHub
 
-![AMA1](./imgs/AMA.png)
-![AMA2](./imgs/Spectrogram.png)
+![AMA1](./imgs/main/AMA.png)
+![AMA2](./imgs/main/Spectrogram.png)
 
 ---
 
@@ -77,8 +77,8 @@ Key Contributions:
 Technologies / Tools:
 Max/MSP, jit.gl.pix, HID Integration, Spatial Audio, Sound Design, Interactive Media
 
-![RD2](./imgs/RD_2.png)
-![RD3](./imgs/RD_3.png)
+![RD2](./imgs/main/RD_2.png)
+![RD3](./imgs/main/RD_3.png)
 
 ---
 
@@ -116,11 +116,11 @@ Logic Pro X, Audio Production, Music Theory, Asset Management, Educational Conte
 
 ---
 
-### My curiosity beside music, audio and technology...
+### More about what I like...r
 
 These are thing on the side that keeps me calm, patient and relaxed while forcees me to be detail oriented, problem solving and present.
 
-Since childhood, the Japanese art of paper folding — [Orgiami]() has been the go to while striving away from screens. From as basic as the Traditional Crane to intermediate Kusudama Ball to 3-dimensional figures till Tessellation Models — evoking patience, eye for detail and embrace flaws.
+Since childhood, the Japanese art of paper folding — [Orgiami](./assets/ORIGAMI.md) has been the go to while striving away from screens. From as basic as the Traditional Crane to intermediate Kusudama Ball to 3-dimensional figures till Tessellation Models — evoking patience, eye for detail and embrace flaws.
 
 As a teenager, the adrenaline rushes from video games is unparallel — being compatitive shooters with each pixel on Rainbow Six Siege, Valorant and Spectre Divide to completing stealth missions on Tom Clancy's Ghost Recon: Future Soldier, Wildlands and Breakpoint along with the motorsport games like Assetto Corsa and CarXdrift — is a long list consisting various geners of games — requested me to be present and take quick decisions to flip the situation around.
 
