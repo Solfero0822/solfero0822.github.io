@@ -78,6 +78,7 @@ Technologies / Tools:
 Max/MSP, jit.gl.pix, HID Integration, Spatial Audio, Sound Design, Interactive Media
 
 ![RD2](./imgs/RD_2.png)
+![RD3](./imgs/RD_3.png)
 
 ---
 
