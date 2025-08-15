@@ -113,7 +113,7 @@ Logic Pro X, Audio Production, Music Theory, Asset Management, Educational Conte
 
 ---
 
-### More about what I like...r
+### About me
 
 These are thing on the side that keeps me calm, patient and relaxed while forcees me to be detail oriented, problem solving and present.
 
