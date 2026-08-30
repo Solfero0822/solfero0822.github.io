@@ -129,6 +129,6 @@ I am always open to talk about [Photography](./assets/PHOTOGRAPHY.md), Chess and
 
 <!-- FOOTER -->̌
 
-@ adityagokhe 2025 |
+@ adityagokhe 2026 |
 
 <!-- FOOTER END -->
