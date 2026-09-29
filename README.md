@@ -119,7 +119,7 @@ These are thing on the side that keeps me calm, patient and relaxed while forcee
 
 Since childhood, the Japanese art of paper folding — [Orgiami](./assets/ORIGAMI.md) has been the go to while striving away from screens. From as basic as the Traditional Crane to intermediate Kusudama Ball to 3-dimensional figures till Tessellation Models — evoking patience, eye for detail and embrace flaws.
 
-As a teenager, the adrenaline rushes from video games is unparallel — being compatitive shooters with each pixel on Rainbow Six Siege, Valorant and Spectre Divide to completing stealth missions on Tom Clancy's Ghost Recon: Future Soldier, Wildlands and Breakpoint along with the motorsport games like Assetto Corsa and CarXdrift — is a long list consisting various geners of games — requested me to be present and take quick decisions to flip the situation around.
+As a teenager, the adrenaline rushes from video games is unparallel, being compatitive shooters with each pixel on Rainbow Six Siege, Valorant and Spectre Divide to completing stealth missions on Tom Clancy's Ghost Recon: Future Soldier, Wildlands and Breakpoint along with the motorsport games like Assetto Corsa and CarXdrift; is a long list consisting various geners of games, requested me to be present and take quick decisions to flip the situation around.
 
 I am always open to talk about [Photography](./assets/PHOTOGRAPHY.md), Chess and Science.
 
